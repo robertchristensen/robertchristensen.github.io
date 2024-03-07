@@ -54,5 +54,3 @@ The job state can make some situations of the job scheduler a little strange.  W
 the scheduler is so simple, I decided it was okay to tolerate the strange behavior in exchange for a simpler implementation.
 
 In future posts I plan to go through some specifics of how the scheduler was implemented.  The scheduler relies heavily on Bash and some basic tools available on most systems.
-
-`start_scheduler -n 4 --queue-pending --queue-running

@@ -8,3 +8,4 @@
   - [Bash Job Queue](./projects/2021-12-16-bash-job-queue.md)
   - [Benchtop Planer Controller](./projects/planer_controller/2025-overview.md)
     - [Benchtop Planer User Manual](./projects/planer_controller/2025-user-manual.md)
+    - [Benchtop Planer Parts List](./projects/planer_controller/2025-parts-list.md)

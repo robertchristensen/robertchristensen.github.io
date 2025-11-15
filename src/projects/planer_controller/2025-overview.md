@@ -26,4 +26,3 @@ too long. The point is, it should do what it is supposed to do and do it very we
 without adding unnecessary complexity.
 
 ![Benchtop Planer Controller Overview](images/planer-controler-overview.svg)
-

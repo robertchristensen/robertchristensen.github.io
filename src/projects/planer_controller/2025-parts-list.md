@@ -10,7 +10,7 @@ Adafruit QT Py - SAMD21 Dev Board with STEMMA QT
 
 [Dev Board pinout](https://learn.adafruit.com/adafruit-qt-py/pinouts)
 
-This is a basic inexpensive processor. It is running an ARM-Cortex M0+.
+This is a basic inexpensive board that uses a ATSAMD21E18. This is a ARM-Cortex M0+ with 256KB Flash and  32 KB RAM, which is more then enough for me.
 The system does not need something more powerful, so I selected this
 because it will meet the basic needs of the project. I wanted to try to
 develop a project with an ARM processor.

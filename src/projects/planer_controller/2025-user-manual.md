@@ -21,12 +21,11 @@ The user input consists of three buttons and one pedal. The buttons are:
 
 **Button Up** will move the motor up. It will move in increments equal to that of
 **Button Down 2**. When the button is pressed, it will move the planer *up* by
-1/16 of an inch.
+1/16".
 
-**Button Down 1** and **Button Down 2** will move the planer *down* by 1/32 of an
-inch or 1/16 of an inch respectively.
+**Button Down 1** and **Button Down 2** will move the planer *down* by 1/32" or 1/16" of an inch respectively.
 
-If any of the buttons are pressed and held, they will move into **continuous mode**.
+If any of the buttons are pressed and held for 750ms, they will move into **continuous mode**.
 The motor will continue to move up or down continuously until any of the buttons
 are pressed *or* any of the limit switches are triggered.
 

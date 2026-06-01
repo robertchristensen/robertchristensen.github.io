@@ -9,3 +9,5 @@
   - [Benchtop Planer Controller](./projects/planer_controller/2025-overview.md)
     - [Benchtop Planer User Manual](./projects/planer_controller/2025-user-manual.md)
     - [Benchtop Planer Parts List](./projects/planer_controller/2025-parts-list.md)
+- [thoughts](./thoughts/thoughts.md)
+  - [Concerns for Using AI as a Coding Agent](./thoughts/AI-coding-agents.md)
